@@ -1,6 +1,4 @@
-﻿using Publications.Repositories.Interfaces;
-
-namespace Publications.Repositories
+﻿namespace Publications.Repositories
 {
     public class UnitOfWork
     {

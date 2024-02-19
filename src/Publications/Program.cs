@@ -1,7 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using Publications;
 using Publications.Repositories;
-using Publications.Repositories.Interfaces;
 using Publications.Services;
 
 var builder = WebApplication.CreateBuilder(args);

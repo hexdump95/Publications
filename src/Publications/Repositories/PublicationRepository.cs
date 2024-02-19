@@ -1,7 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.ChangeTracking;
 using Publications.Entities;
-using Publications.Repositories.Interfaces;
 
 namespace Publications.Repositories
 {

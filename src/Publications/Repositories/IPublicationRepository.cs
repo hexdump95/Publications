@@ -1,7 +1,6 @@
-using Microsoft.EntityFrameworkCore.ChangeTracking;
 using Publications.Entities;
 
-namespace Publications.Repositories.Interfaces
+namespace Publications.Repositories
 {
     public interface IPublicationRepository
     {
